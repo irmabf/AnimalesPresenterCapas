@@ -11,8 +11,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import domain.Animal;
-import model.AnimalService;
-import model.IAnimalService;
+import services.AnimalService;
+import services.IAnimalService;
 
 /**
  * Servlet implementation class AnimalPresenter
